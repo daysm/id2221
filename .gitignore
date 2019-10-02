@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+#
+target
+
+# VS Code
+settings.json
+
+# .ipynb checkpoints
+*.ipynb_checkpoints
+
 # Log file
 *.log
 
